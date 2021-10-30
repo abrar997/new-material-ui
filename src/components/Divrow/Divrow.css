@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,400;1,500&family=Roboto:ital,wght@1,300;1,400&display=swap');
+.top {
+  /* background-image: linear-gradient(to left, #03dac517, rgba(12, 2, 2, 0.342)); */
+  width: 100%;
+  margin-top: 115px;
+  height: 780px;
+  background-image: linear-gradient(to right,#212624, #03dac517,#212624);
+background-size:100%;
+font-family: 'EB Garamond', serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.top img {
+  width: 100%;
+  margin-top: 100px;
+}
